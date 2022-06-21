@@ -35,12 +35,10 @@
                     @endauth
                 </div>
             @endif
-            <div>
-                <h1 style="display: block">This is Production Environment</h1>
+            <div style="text-align: center">
+                <h1>This is Production Environment</h1>
 
-            </div>
-                <div>
-                    <h1 style="display: block">مرحبا أنا عبدالرحمان</h1>
+                    <h1>مرحبا أنا عبدالرحمان</h1>
 
                 </div>
             {{-- <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">

@@ -36,7 +36,7 @@
                 </div>
             @endif
             <div style="text-align: center">
-                <h1>This is Production Environment</h1>
+                <h1>This is Staging  Environment</h1>
 
                     <h1>مرحبا أنا عبدالرحمان</h1>
 
